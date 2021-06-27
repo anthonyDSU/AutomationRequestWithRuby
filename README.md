@@ -3,6 +3,8 @@
 #### Application Name: AutomationRequest with Ruby
 #### Tool Objective: Quickly send thousands of web requests using Ruby for multiple purposes.
 
+Link to url list used in demo: https://raw.githubusercontent.com/zer0h/top-1000000-domains/master/top-10000-domains
+
 The primary function house the command line parameters,
 -l for a list of URLs/IPs,
 -s for single
